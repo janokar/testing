@@ -1,7 +1,7 @@
 def fakultet(tall):
     resultat = 1
     for i in range(1, tall):
-        resultat *= i + 1
+        resultat *= i + 2
     return resultat
 
 print(fakultet(22))
