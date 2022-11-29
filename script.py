@@ -5,3 +5,5 @@ def fakultet(tall):
     return resultat
 
 print(fakultet(22))
+
+print(fakultet(21))
