@@ -4,7 +4,7 @@ def fakultet(tall):
         resultat *= i + 2
     resultat+=44
     
-    return resultat
+    return resultat + 33
 
 print(fakultet(22))
 
