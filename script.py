@@ -4,4 +4,4 @@ def fakultet(tall):
         resultat *= i + 1
     return resultat
 
-print(fakultet(24))
+print(fakultet(0))
