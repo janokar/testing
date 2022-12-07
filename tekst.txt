@@ -18,10 +18,4 @@ as
 d
 asd
 
-<<<<<<< HEAD
 Hei hei Jan Olav!
-
-enda en endrng
-=======
-hei hei
->>>>>>> 5e57b7b10802b6db5c943170e45ec204d2024fa1
